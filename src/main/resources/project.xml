@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<!-- 是否输出源文件 -->
+	<src-out>true</src-out>
+	<!-- maven 路径 -->
+	<maven>D:/Java/apache-maven-3.3.9</maven>
+	<projects>
+		<project>
+			<name>tysdpt</name>
+			<workspace>E:/workspace</workspace>
+			<output>tysdpt/WEB-INF</output>
+		</project>
+	</projects>
+</root>
+
+
+
+<!--
+<root>
+&lt;!&ndash; 是否输出源文件 &ndash;&gt;
+<src-out>true</src-out>
+&lt;!&ndash; maven 路径 &ndash;&gt;
+<maven>D:/Java/apache-maven-3.3.9</maven>
+<projects>
+	<project>
+		<name>ems_sdfy</name>
+		<workspace>E:/project</workspace>
+		<output>ems_sdfy/WEB-INF</output>
+	</project>
+</projects>
+</root>-->

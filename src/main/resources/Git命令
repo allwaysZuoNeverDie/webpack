@@ -1,0 +1,2 @@
+比较版本不同并打包
+git diff b75aca1 --name-only | xargs tar -czvf update.tar.gz
